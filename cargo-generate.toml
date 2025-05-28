@@ -1,0 +1,4 @@
+[template]
+name = "Rust Workspace Starter"
+description = "Workspace with one binary and one library crate"
+version = "0.1.0"

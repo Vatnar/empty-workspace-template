@@ -1,0 +1,7 @@
+[package]
+name = "binary_crate"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+library_crate = { path = "../library_crate"}
