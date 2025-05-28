@@ -4,5 +4,5 @@ description = "Workspace with one binary and one library crate"
 version = "0.1.0"
 
 [placeholders]
-lib_crate = { type = "string", prompt = "Name of the library crate", regex = "^[a-zA-Z][a-zA-Z0-9_-]*$" }
-bin_crate = { type = "string", prompt = "Name of the binary crate", regex = "^[a-zA-Z][a-zA-Z0-9_-]*$" }
+lib_crate = { type = "string", prompt = "Name of the library crate" }
+bin_crate = { type = "string", prompt = "Name of the binary crate" }

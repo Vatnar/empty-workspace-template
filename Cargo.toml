@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["{{bin_crate}}", "{{lib_crate}}"]
+members = ["{{lib_crate}}", "{{bin_crate}}"]
