@@ -3,5 +3,12 @@
 version = 4
 
 [[package]]
-name = "empty-workspace"
+name = "binary_crate"
+version = "0.1.0"
+dependencies = [
+ "library_crate",
+]
+
+[[package]]
+name = "library_crate"
 version = "0.1.0"
