@@ -1,8 +1,4 @@
 [template]
-name = "Rust Workspace Starter"
-description = "Workspace with one binary and one library crate"
+name = "Minimal Workspace"
+description = "Binary + Library workspace starter"
 version = "0.1.0"
-
-[placeholders]
-lib_crate = { type = "string", prompt = "Name of the library crate" }
-bin_crate = { type = "string", prompt = "Name of the binary crate" }
