@@ -1,5 +1,5 @@
 [package]
-name = "library_crate"
+name = "{{lib_crate}}"
 version = "0.1.0"
 edition = "2024"
 
